@@ -4,6 +4,7 @@ import { useGetGeographyQuery } from "state/api";
 import Header from "components/Header";
 import { ResponsiveChoropleth } from "@nivo/geo";
 import { geoData } from "state/geoData";
+import Loader from "components/Loader";
 
 const Geography = () => {
   const theme = useTheme();
@@ -92,7 +93,7 @@ const Geography = () => {
             ]}
           />
         ) : (
-          <>Loading...</>
+          <Loader />
         )}
       </Box>
     </Box>
