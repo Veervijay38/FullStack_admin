@@ -12,7 +12,7 @@ const Geography = () => {
 
   return (
     <Box m="1.5rem 2.5rem">
-      <Header title="GEOGRAPHY" subtitle="Find where your users are located." />
+      <Header title="GEOGRAPHY" subtitle="Identify the geographical distribution of your user base" />
       <Box
         mt="40px"
         height="75vh"
