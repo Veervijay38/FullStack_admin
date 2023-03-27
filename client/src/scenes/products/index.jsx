@@ -12,7 +12,7 @@ import {
   useMediaQuery,
 } from "@mui/material";
 import Header from "components/Header";
-import { useGetProductaQuery } from "state/api";
+import { useGetProductsQuery } from "state/api";
 
 // const Product = ({
 //   _id,
@@ -100,7 +100,7 @@ const Product = ({
 }) => {
   const theme = useTheme();
   const isExpanded = expanded === _id;
-//   console.log("🚀 ~ file: index.jsx:103 ~ isExpanded:", expanded, _id);
+  //   console.log("🚀 ~ file: index.jsx:103 ~ isExpanded:", expanded, _id);
   return (
     <Card
       sx={{
@@ -158,7 +158,7 @@ const Product = ({
   );
 };
 const Products = () => {
-  const { data, isLoading } = useGetProductaQuery();
+  const { data, isLoading } = useGetProductsQuery();
   const isNonMobile = useMediaQuery("(min-width: 1000px)");
 
   //   console.log("🚀 ~ file: index.jsx:19 ~ Product ~ data, isLoading:", data, isLoading)
