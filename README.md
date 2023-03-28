@@ -30,10 +30,10 @@ This project was built using these technologies.
 
 ## Features
 
-**📖 Multi-page Layout Featuring Sidebar Navigation**
+**📖  `Multi-page Layout Featuring Sidebar Navigation`**
 
-**💡 Switching between Dark and Light Modes**
+**💡  `Switching between Dark and Light Modes`**
 
-**📱 Ensuring responsiveness across various devices and screen sizes**
+**📱  `Ensuring responsiveness across various devices and screen sizes`**
 
-**🖥️ Establishing a Proprietary Database and Backend Server Configuration**
+**🖥️  `Establishing a Proprietary Database and Backend Server Configuration`**
