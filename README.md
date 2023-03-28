@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  MERN Stack Dashboard<br/>
   <a href="" target="_blank">ThriveCart</a>
 </h2>
 <div align="center">
