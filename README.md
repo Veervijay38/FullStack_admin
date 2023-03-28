@@ -3,7 +3,7 @@
   <a href="" target="_blank">ThriveCart</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="./client/src/assets/DashboardSS.png" />
 </div>
 
 <br/>
