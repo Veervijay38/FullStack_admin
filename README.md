@@ -1,5 +1,5 @@
 <h2 align="center">
-  MERN Stack Dashboard<br/>
+  MERN Stack Admin Dashboard<br/>
   <a href="" target="_blank">ThriveCart</a>
 </h2>
 <div align="center">
@@ -23,8 +23,17 @@ This project was built using these technologies.
 - React.js
 - Node.js
 - Express.js
-- CSS3
-- VsCode
+- CSS
+- Material-UI
 - MongoDB
+- Redux Toolkit
 
 ## Features
+
+**📖 Multi-page Layout Featuring Sidebar Navigation**
+
+**💡 Switching between Dark and Light Modes**
+
+**📱 Ensuring responsiveness across various devices and screen sizes**
+
+**🖥️ Establishing a Proprietary Database and Backend Server Configuration**
