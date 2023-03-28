@@ -1,6 +1,6 @@
 <h2 align="center">
   MERN Stack Admin Dashboard<br/>
-  <a href="" target="_blank">ThriveCart</a>
+  <a href="https://veer-mern-admin.onrender.com/" target="_blank">ThriveCart</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./client/src/assets/DashboardSS.png" />
